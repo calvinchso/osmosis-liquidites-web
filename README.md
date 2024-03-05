@@ -4,7 +4,7 @@ A very simple web server for exposing osmosis liquidites data thru REST
 
 To compile:
 ```
-go build main
+go build main.go
 ```
 
 To run:
